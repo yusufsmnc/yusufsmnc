@@ -8,7 +8,7 @@ Computer Engineering student at Erciyes University, based in Kayseri, Türkiye. 
 
 - 📍 Kayseri, Türkiye
 - 🎓 B.Sc. Computer Engineering @ Erciyes University (2023 – 2027, expected)
-- 🔧 Embedded Systems Engineer Intern @ Baylan, İzmir — STM32 / FreeRTOS firmware
+- 🔧 Embedded Systems Engineer Intern @ Baylan Water Meters, İzmir — STM32 / FreeRTOS firmware
 - 🌐 LinkedIn: [yusuf-somuncu](https://www.linkedin.com/in/yusuf-somuncu-117a73405/)
 - 📧 Email: [1030510849@erciyes.edu.tr](mailto:1030510849@erciyes.edu.tr)
 
